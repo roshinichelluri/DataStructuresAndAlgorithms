@@ -1,0 +1,293 @@
+Folder PATH listing for volume Windows
+Volume serial number is 34E2-9F2A
+C:.
+¦   structure.txt
+¦   
++---Arrays
+¦       ArrayOfRecords.class
+¦       ArrayOfRecords.java
+¦       ArrayOfRecords2.class
+¦       ArrayOfRecords2.java
+¦       ArrayOfRecords3.class
+¦       ArrayOfRecords3.java
+¦       ArrayOfRecords4.class
+¦       ArrayOfRecords4.java
+¦       Arrays.class
+¦       Arrays.java
+¦       Frequency.class
+¦       Frequency.java
+¦       gcdOfArray.class
+¦       gcdOfArray.java
+¦       IntersectionOf2Arrays.class
+¦       IntersectionOf2Arrays.java
+¦       IntersectionOf2Arrays2.class
+¦       IntersectionOf2Arrays2.java
+¦       IntersectionOf2Arrays3.java
+¦       MaxKSumSubArray.java
+¦       noOfOnes.class
+¦       noOfOnes.java
+¦       noOfOnes2.class
+¦       noOfOnes2.java
+¦       OddElement.class
+¦       OddElement.java
+¦       ReverseWords.class
+¦       ReverseWords.java
+¦       Sort0s1s2s.class
+¦       Sort0s1s2s.java
+¦       Sort0s1s2s_2.class
+¦       Sort0s1s2s_2.java
+¦       SortByParity2.class
+¦       SortByParity2.java
+¦       SortedRotated1.class
+¦       SortedRotated1.java
+¦       SortedRotated2.class
+¦       SortedRotated2.java
+¦       SortedRotated3.class
+¦       SortedRotated3.java
+¦       SortedRotated4.class
+¦       SortedRotated4.java
+¦       SortedRotated5.class
+¦       SortedRotated5.java
+¦       SortedRotated6.class
+¦       SortedRotated6.java
+¦       
++---BasicMath
+¦       countDivisors.class
+¦       countDivisors.java
+¦       Factors.class
+¦       Factors.java
+¦       GCD.class
+¦       GCD.java
+¦       GCD2.class
+¦       GCD2.java
+¦       GCD3.class
+¦       GCD3.java
+¦       isFactorialPerfect.class
+¦       isFactorialPerfect.java
+¦       isFactorPerfect.class
+¦       isFactorPerfect.java
+¦       isPerfectNumber.class
+¦       isPerfectNumber.java
+¦       isPerfectNumber2.class
+¦       isPerfectNumber2.java
+¦       isPerfectNumber3.class
+¦       isPerfectNumber3.java
+¦       isPerfectNumber4.class
+¦       isPerfectNumber4.java
+¦       LCM1.class
+¦       LCM1.java
+¦       LCM2.class
+¦       LCM2.java
+¦       NPrime.class
+¦       NPrime.java
+¦       PowerOf2.java
+¦       PowerOf3.class
+¦       PowerOf3.java
+¦       PowerOfXtoN.class
+¦       PowerOfXtoN.java
+¦       PowerOfXtoN2.class
+¦       PowerOfXtoN2.java
+¦       PowersPrimeFactors.class
+¦       PowersPrimeFactors.java
+¦       PrimeFactors.class
+¦       PrimeFactors.java
+¦       trailingZeroes.java
+¦       trailingZeroes2.class
+¦       trailingZeroes2.java
+¦       
++---Collections
+¦       ArraylistDemo.class
+¦       ArraylistDemo.java
+¦       ArraylistOfRecords.class
+¦       ArraylistOfRecords.java
+¦       ArraylistOfRecords2.class
+¦       ArraylistOfRecords2.java
+¦       ArraylistOfRecords3.class
+¦       ArraylistOfRecords3.java
+¦       ArraylistOfRecords4.class
+¦       ArraylistOfRecords4.java
+¦       linkedListDemo.class
+¦       linkedListDemo.java
+¦       MapDemo.class
+¦       MapDemo.java
+¦       PriorityQueueDemo.class
+¦       PriorityQueueDemo.java
+¦       QueueDemo.class
+¦       QueueDemo.java
+¦       SortArraylist.class
+¦       SortArraylist.java
+¦       SortByBranch.class
+¦       SortByCgpa.class
+¦       SortByMarks.class
+¦       SortByName.class
+¦       SortByParity.class
+¦       SortByParity.java
+¦       SortByParity2.class
+¦       SortByParity2.java
+¦       StackDemo.class
+¦       StackDemo.java
+¦       TreeMapDemo.class
+¦       TreeMapDemo.java
+¦       
++---MatrixProblems
+¦       Matrix_MaxOnesRowIndex.class
+¦       Matrix_MaxOnesRowIndex.java
+¦       Matrix_MaxOnesRowIndex2.class
+¦       Matrix_MaxOnesRowIndex2.java
+¦       SearchingIn2dArray1.class
+¦       SearchingIn2dArray1.java
+¦       SearchingIn2dArray2.class
+¦       SearchingIn2dArray2.java
+¦       SearchingIn2dArray3.class
+¦       SearchingIn2dArray3.java
+¦       SpiralMatrix1.class
+¦       SpiralMatrix1.java
+¦       
++---Searching
+¦       BinarySearch1.class
+¦       BinarySearch1.java
+¦       BinarySearch2.class
+¦       BinarySearch2.java
+¦       BinarySearch3.class
+¦       BinarySearch3.java
+¦       BinarySearch4.class
+¦       BinarySearch4.java
+¦       BinarySearch5.class
+¦       BinarySearch5.java
+¦       LinearSearch1.class
+¦       LinearSearch1.java
+¦       LinearSearch2.class
+¦       LinearSearch2.java
+¦       Sentinel Search Theory.md
+¦       SentinelSearch.class
+¦       SentinelSearch.java
+¦       TernarySearch.class
+¦       TernarySearch.java
+¦       
++---Sorting
+¦       bubbleSort.class
+¦       bubbleSort.java
+¦       insertionSort.class
+¦       insertionSort.java
+¦       mergeSort.class
+¦       mergeSort.java
+¦       RecursiveBubbleSort.class
+¦       RecursiveBubbleSort.java
+¦       RecursiveInsertionSort.class
+¦       RecursiveInsertionSort.java
+¦       selectionSort.class
+¦       selectionSort.java
+¦       
++---Strings
+¦       CompressString.class
+¦       CompressString.java
+¦       EncodeString.class
+¦       EncodeString.java
+¦       EncodeString2.class
+¦       EncodeString2.java
+¦       EncodeString3.class
+¦       EncodeString3.java
+¦       EncodeString4.class
+¦       EncodeString4.java
+¦       EncodeString5.class
+¦       EncodeString5.java
+¦       EvenFreqOrNot.class
+¦       EvenFreqOrNot.java
+¦       FreqOfCharsInString.class
+¦       FreqOfCharsInString.java
+¦       RemoveAdjChars.class
+¦       RemoveAdjChars.java
+¦       RemoveAdjChars2.class
+¦       RemoveAdjChars2.java
+¦       ReverseWords.class
+¦       ReverseWords.java
+¦       StringAnagrams.class
+¦       StringAnagrams.java
+¦       StringIsograms.class
+¦       StringIsograms.java
+¦       StringPalindrome.class
+¦       StringPalindrome.java
+¦       StringPangrams.class
+¦       StringPangrams.java
+¦       StringReverseUsing2Pointers.class
+¦       StringReverseUsing2Pointers.java
+¦       
++---TwoPointerAlgorithm
+¦       KClosestElements.class
+¦       KClosestElements.java
+¦       RemoveAdjChars2.class
+¦       RemoveAdjChars2.java
+¦       Sort0s1s2s.class
+¦       Sort0s1s2s.java
+¦       Sort0s1s2s_2.class
+¦       Sort0s1s2s_2.java
+¦       StringReverseUsing2Pointers.class
+¦       StringReverseUsing2Pointers.java
+¦       TrappingRainWater.class
+¦       TrappingRainWater.java
+¦       TrappingRainWater2.class
+¦       TrappingRainWater2.java
+¦       
++---TwoSumProblem
+    ¦   findAllPairs1.class
+    ¦   findAllPairs1.java
+    ¦   findAllPairs1_2.class
+    ¦   findAllPairs1_2.java
+    ¦   findAllPairs1_3.class
+    ¦   findAllPairs1_3.java
+    ¦   findAllPairs1_4.java
+    ¦   findAllPairs2_1.class
+    ¦   findAllPairs2_1.java
+    ¦   findAllPairs2_2.class
+    ¦   findAllPairs2_2.java
+    ¦   findAllPairs2_3.class
+    ¦   findAllPairs2_3.java
+    ¦   findAllPairs3_1.class
+    ¦   findAllPairs3_1.java
+    ¦   findAllPairs3_2.class
+    ¦   findAllPairs3_2.java
+    ¦   findAllPairs3_3.class
+    ¦   findAllPairs3_3.java
+    ¦   findAllPairs4_1.class
+    ¦   findAllPairs4_1.java
+    ¦   findAllPairs4_2.class
+    ¦   findAllPairs4_2.java
+    ¦   findAllPairs4_3.class
+    ¦   findAllPairs4_3.java
+    ¦   findAllPairs5_1.class
+    ¦   findAllPairs5_1.java
+    ¦   findAllPairs5_2.class
+    ¦   findAllPairs5_2.java
+    ¦   findAllPairs6_1.class
+    ¦   findAllPairs6_1.java
+    ¦   findAllPairs6_2.class
+    ¦   findAllPairs6_2.java
+    ¦   TwoSum1.class
+    ¦   TwoSum1.java
+    ¦   TwoSum2.class
+    ¦   TwoSum2.java
+    ¦   TwoSum3.class
+    ¦   TwoSum3.java
+    ¦   TwoSum4.class
+    ¦   TwoSum4.java
+    ¦   
+    +---ThreeSumProblem
+            ThreeSum1.class
+            ThreeSum1.java
+            ThreeSum2.class
+            ThreeSum2.java
+            ThreeSum3.class
+            ThreeSum3.java
+            ThreeSum4.class
+            ThreeSum4.java
+            ThreeSum5.class
+            ThreeSum5.java
+            ThreeSum6.class
+            ThreeSum6.java
+            ThreeSum7.class
+            ThreeSum7.java
+            ThreeSum8.class
+            ThreeSum8.java
+            ThreeSum9.class
+            ThreeSum9.java
+            
